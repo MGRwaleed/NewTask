@@ -1,0 +1,123 @@
+THE ESSENTIAL LINUX COMMANDS
+
+60 Essential Linux Commands (with brief explanations)
+
+ls – Lists files and directories.
+
+pwd – Displays your current working directory path.
+
+cd – Changes directory.
+
+mkdir – Creates a new directory.
+
+rmdir – Deletes an empty directory.
+
+rm – Removes files or directories (with cautious flags).
+
+cp – Copies files or directories.
+
+mv – Moves or renames files/directories.
+
+touch – Creates an empty file or updates the timestamp.
+
+file – Determines a file’s type.
+
+zip/unzip – Compresses/decompresses files using ZIP format.
+
+tar – Archives (and compresses) files into tarballs.
+
+nano/vi/jed – Opens files in text editors.
+
+cat – Outputs file contents; also merges files.
+
+grep – Searches text using patterns.
+
+sed – Stream editor for search-and-replace in text.
+
+head – Shows the beginning of a file.
+
+tail – Shows the end of a file.
+
+awk – Text processing and pattern-based data manipulation.
+
+sort – Sorts lines of text.
+
+cut – Extracts sections from each line.
+
+diff – Compares two files line by line.
+
+tee – Reads from stdin and writes to both stdout and a file.
+
+locate – Quickly finds files via a prebuilt database.
+
+find – Searches for files in real-time based on criteria.
+
+sudo – Runs a command with elevated (root) privileges.
+
+su / whoami – Switches user / shows the current user.
+
+chmod – Changes file or directory permissions.
+
+chown – Changes ownership of files/directories.
+
+useradd, passwd, userdel – Manages user accounts.
+
+df – Shows disk space usage at file system level.
+
+du – Shows disk usage for directories and files.
+
+top – Displays real-time system processes and resources.
+
+htop – An enhanced, interactive version of top.
+
+ps – Snapshots active processes.
+
+uname – Shows system and kernel information.
+
+hostname – Shows or sets the system's host name.
+
+time – Measures the duration of command execution.
+
+systemctl – Manages system services.
+
+watch – Executes and updates output of a command repeatedly.
+
+jobs – Shows background and suspended jobs.
+
+kill – Terminates processes by ID or signal.
+
+shutdown – Shuts down or restarts the system.
+
+ping – Tests network connectivity to a host.
+
+wget – Downloads files via HTTP, HTTPS, or FTP.
+
+curl – Transfers data to/from servers (HTTP, APIs, etc.).
+
+scp – Securely copies files between hosts.
+
+rsync – Synchronizes files across systems efficiently.
+
+ip – Manages networking, replaces ifconfig.
+
+netstat – Displays network connections and statistics.
+
+traceroute – Traces packet path across network hops.
+
+nslookup – Queries DNS for domain name or IP info.
+
+dig – Advanced DNS lookup tool.
+
+history – Displays command history and reruns commands.
+
+man – Opens the manual page for commands.
+
+echo – Prints text or variables to stdout or files.
+
+ln – Creates hard or symbolic links.
+
+alias/unalias – Defines or removes command shortcuts.
+
+cal – Displays a calendar.
+
+apt/dnf – Package managers for installing and updating software
